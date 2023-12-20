@@ -10,4 +10,7 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+   //Thanks for Launch Code Organization giving me the opportunity part of Launch Code
+   console.log("WELCOME TO LAUNCHCODE");
+
    
